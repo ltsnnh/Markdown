@@ -5,7 +5,11 @@
 ##### Heading level 5
 ###### Heading level 6
 ## Extended Syntax
-## Paragraphs
-I really like using Markdown.
+### Paragraphs
+To create paragraphs, use a blank line to separate one or more lines of text.
 
-I think I'll use it from now on.
+You should not indent paragraphs with spaces or tabs.
+### Line Breaks
+To create a line break  
+end a line with two or more spaces  
+and then type return.
