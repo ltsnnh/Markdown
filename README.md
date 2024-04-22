@@ -19,4 +19,22 @@ I love **bold text**.
 To *italicize* text, add *one asterisk* or underscore before and after a word or phrase.
 #### Bold and Italic
 To ***emphasize*** text with **bold** and *italics* at the same time, add ***three asterisks*** or underscores before and after a word or phrase.
+### Blockquotes
+> To create a blockquote, add a > in front of a paragraph.
+#### Blockquotes with Multiple Paragraphs
+> This the first paragraph.
+>
+> And this is the second paragraph.
+#### Nested Blockquotes
+> This the first paragraph.
+>
+>> And this is the nested paragraph.
+#### Blockquotes with Other Elements
+> ##### Blockquotes can contain other Markdown formatted elements
+>
+> - Not all elements can be used.
+> - You’ll need to experiment to see which ones work.
+>
+> *Everything* is going **well**.
+
 ## Extended Syntax
