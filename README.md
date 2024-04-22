@@ -16,5 +16,7 @@ and then type return.
 #### Bold
 I love **bold text**.
 #### Italic
-To *italicize* text, add one *asterisk or underscore* before and after a *word or phrase*.
+To *italicize* text, add *one asterisk* or underscore before and after a word or phrase.
+#### Bold and Italic
+To ***emphasize*** text with **bold** and *italics* at the same time, add ***three asterisks*** or underscores before and after a word or phrase.
 ## Extended Syntax
