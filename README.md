@@ -1,5 +1,7 @@
-# The Markdown Guide
-## Basic Syntax
+The Markdown Guide
+===
+Basic Syntax
+---
 ### Headings
 #### Heading level 4
 ##### Heading level 5
@@ -93,4 +95,5 @@ To ***emphasize*** text with **bold** and *italics* at the same time, add ***thr
     ![Tux](images/tux.png)
 
 - Close the file.
-## Extended Syntax
+Extended Syntax
+---
