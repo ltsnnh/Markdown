@@ -74,7 +74,7 @@ To ***emphasize*** text with **bold** and *italics* at the same time, add ***thr
 ##### Blockquotes
 - This is the first list item.
 - Here's the second list item.
-  
+
     > A blockquote would look great here.
 
 - And here's the third list item.
@@ -95,4 +95,27 @@ To ***emphasize*** text with **bold** and *italics* at the same time, add ***thr
     ![Markdown flowchart](/markdown-flowchart.png)
 
 - Close the file.
+### Code
+To denote a *word or phrase* as `code`, enclose it in tick marks (`).
+#### Escaping Tick Marks
+If the *word or phrase* you want to denote as code *includes one or more tick marks*,
+``you can escape it by enclosing the `word or phrase` in double tick marks`` (``).
+#### Code Blocks
+    <html>
+        <head>
+        </head>
+    </html>
+### Horizontal Rules
+***
+---
+___
+### Links
+Follow [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+#### Adding Titles
+Follow [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/ "A quick reference to the Markdown syntax!")
+#### URLs and Email Addresses
+<https://www.markdownguide.org/>  
+<lt.anh197@gmail.com>
+#### Formatting Links
+I love supporting ***[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)***
 ## Extended Syntax
