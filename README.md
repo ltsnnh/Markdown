@@ -16,7 +16,7 @@ end a line with two or more spaces
 and then type return.
 ### Emphasis
 #### Bold
-I love **bold text**.
+To **bold** text, add **two asterisks** or underscores before and after a word or phrase.
 #### Italic
 To *italicize* text, add *one asterisk* or underscore before and after a word or phrase.
 #### Bold and Italic
@@ -41,20 +41,20 @@ To ***emphasize*** text with **bold** and *italics* at the same time, add ***thr
 ### Lists
 #### Ordered Lists
 1. First item
-2. Second item
-3. Third item
-4. Fourth item
+4. Second item
+2. Third item
+3. Fourth item
 ##### Nesting List Items
 1. First item
-2. Second item
-3. Third item
+1. Second item
+1. Third item
     1. Indented item
-    2. Indented item
-4. Fourth item
+    1. Indented item
+1. Fourth item
 #### Unordered Lists
 - First item
-- Second item
-- Third item
++ Second item
+* Third item
 - Fourth item
 ##### Nesting List Items
 - First item
@@ -89,11 +89,10 @@ To ***emphasize*** text with **bold** and *italics* at the same time, add ***thr
 
 - Write code in main() function.
 ##### Images
-- Open the file containing Tux, the Linux mascot.
+- Open the file.
 - Marvel at its beauty.
   
-    ![Tux](images/tux.png)
+    ![Markdown flowchart](/markdown-flowchart.png)
 
 - Close the file.
-Extended Syntax
----
+## Extended Syntax
