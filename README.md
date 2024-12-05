@@ -118,4 +118,8 @@ Follow [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/ "A quic
 <lt.anh197@gmail.com>
 #### Formatting Links
 I love supporting ***[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)***
+#### Reference-style Links
+Follow [Markdown Cheat Sheet][label-1]
 ## Extended Syntax
+
+[label-1]: <https://www.markdownguide.org/cheat-sheet/> "A quick reference to the Markdown syntax!"
