@@ -142,5 +142,15 @@ Markdown document, add a backslash (\\) in front of the character.
 | ! | exclamation mark |
 | \| | pipe |
 ## Extended Syntax
+### Tables
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+#### Alignment
+| Syntax | Description | Test Text |
+| :--- | :---: | ---: |
+| Header | Title | Here's this |
+| Paragraph | Text | And more |
 
 [label-1]: <https://jekyllrb.com/> "A site generator that takes Markdown files and builds an HTML website"
