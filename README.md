@@ -112,14 +112,35 @@ ___
 ### Links
 Follow [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 #### Adding Titles
-Follow [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/ "A quick reference to the Markdown syntax!")
+[Dillinger](https://dillinger.io/ "The best online Markdown editors") which you can use to try writing in Markdown.
 #### URLs and Email Addresses
-<https://www.markdownguide.org/>  
+<https://daringfireball.net/projects/markdown/>  
 <lt.anh197@gmail.com>
 #### Formatting Links
-I love supporting ***[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)***
+A list of Markdown tools and learning resources: ***[Awesome Markdown](https://github.com/mundimark/awesome-markdown)***
 #### Reference-style Links
-Follow [Markdown Cheat Sheet][label-1]
+Check out [Jekyll][label-1]
+### Images
+![Markdown Logo](/markdown.jpg "Markdown watermark")
+### Escaping Characters
+\*To display a literal character that would otherwise be used to format text in a
+Markdown document, add a backslash (\\) in front of the character.
+#### Characters You Can Escape
+| Syntax | Description |
+| ------ | ----------- |
+| \ | backslash |
+| ` | tick mark |
+| * | asterisk |
+| _ | underscore |
+| {} | curly braces |
+| [] | brackets |
+| () | parentheses |
+| # | pound sign |
+| + | plus sign |
+| - | minus sign |
+| . | dot |
+| ! | exclamation mark |
+| \| | pipe |
 ## Extended Syntax
 
-[label-1]: <https://www.markdownguide.org/cheat-sheet/> "A quick reference to the Markdown syntax!"
+[label-1]: <https://jekyllrb.com/> "A site generator that takes Markdown files and builds an HTML website"
