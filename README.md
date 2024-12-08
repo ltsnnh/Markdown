@@ -163,6 +163,13 @@ Markdown document, add a backslash (\\) in front of the character.
 ### Footnotes
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
+### Heading IDs {#custom-id}
+#### Linking to Heading IDs
+You can link to headings with custom IDs in the file by creating a [standard link](#custom-id) with
+a number sign (#) followed by the custom heading ID.
+
+---
+
 [^1]: This is the first footnote.
 
 [^bignote]: Here's one with multiple paragraphs and code.
