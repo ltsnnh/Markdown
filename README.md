@@ -179,6 +179,11 @@ Second Term
 ### Strikethrough
 The world is ~~flat~~ round.
 
+### Task Lists
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
 ---
 
 [^1]: This is the first footnote.
