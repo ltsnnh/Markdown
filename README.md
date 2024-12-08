@@ -163,6 +163,10 @@ Markdown document, add a backslash (\\) in front of the character.
 ### Footnotes
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
 ### Heading IDs {#custom-id}
 #### Linking to Heading IDs
 You can link to headings with custom IDs in the file by creating a [standard link](#custom-id) with
@@ -185,9 +189,5 @@ The world is ~~flat~~ round.
 - [ ] Contact the media
 
 ---
-
-[^1]: This is the first footnote.
-
-[^bignote]: Here's one with multiple paragraphs and code.
 
 [label-1]: <https://jekyllrb.com/> "A site generator that takes Markdown files and builds an HTML website"
