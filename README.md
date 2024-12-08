@@ -168,6 +168,14 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 You can link to headings with custom IDs in the file by creating a [standard link](#custom-id) with
 a number sign (#) followed by the custom heading ID.
 
+### Definition Lists
+First Term  
+: This is the definition of the first term.
+
+Second Term  
+: This is one definition of the second term.  
+: This is another definition of the second term.  
+
 ---
 
 [^1]: This is the first footnote.
