@@ -92,7 +92,7 @@ To ***emphasize*** text with **bold** and *italics* at the same time, add ***thr
 - Open the file.
 - Marvel at its beauty.
   
-    ![Markdown flowchart](/markdown-flowchart.png)
+    ![Markdown flowchart](https://live.staticflickr.com/65535/54196098938_7efaa06959_b.jpg)
 
 - Close the file.
 ### Code
@@ -121,7 +121,7 @@ A list of Markdown tools and learning resources: ***[Awesome Markdown](https://g
 #### Reference-style Links
 Check out [Jekyll][label-1]
 ### Images
-![Markdown Logo](/markdown.jpg "Markdown watermark")
+![Markdown Logo](https://live.staticflickr.com/65535/53126939206_5b3830d5bc_b.jpg "Markdown watermark")
 ### Escaping Characters
 \*To display a literal character that would otherwise be used to format text in a
 Markdown document, add a backslash (\\) in front of the character.
@@ -167,9 +167,9 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 [^bignote]: Here's one with multiple paragraphs and code.
 
-### Heading IDs {#custom-id}
+### Heading IDs
 #### Linking to Heading IDs
-You can link to headings with custom IDs in the file by creating a [standard link](#custom-id) with
+You can link to headings with custom IDs in the file by creating a [standard link](#heading-ids) with
 a number sign (#) followed by the custom heading ID.
 
 ### Definition Lists
