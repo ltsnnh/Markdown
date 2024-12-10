@@ -171,22 +171,21 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 #### Linking to Heading IDs
 You can link to headings with custom IDs in the file by creating a [standard link](#heading-ids) with
 a number sign (#) followed by the custom heading ID.
-
 ### Definition Lists
 First Term  
 : This is the definition of the first term.
 
 Second Term  
 : This is one definition of the second term.  
-: This is another definition of the second term.  
-
+: This is another definition of the second term.
 ### Strikethrough
 The world is ~~flat~~ round.
-
 ### Task Lists
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+## HTML Tags to Markdown Syntax
+### <span style="color:Orange">Heading</span>
 
 ---
 
