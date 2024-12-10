@@ -186,6 +186,8 @@ The world is ~~flat~~ round.
 - [ ] Contact the media
 ## HTML Tags to Markdown Syntax
 ### <span style="color:Orange">Heading</span>
+### Resized Images
+<img src="https://live.staticflickr.com/65535/53126939206_5b3830d5bc_b.jpg" width="200">
 
 ---
 
